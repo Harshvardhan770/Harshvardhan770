@@ -96,16 +96,16 @@ public:
       <h3 align="center">📚 DSA Repository</h3>
       <p align="center">
         <a href="https://github.com/Harshvardhan770/DSA">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Harshvardhan770&repo=DSA&theme=tokyonight&hide_border=true" />
+          <img src="https://raw.githubusercontent.com/Harshvardhan770/DSA/main/assets/dsa-banner.svg" width="100%"/>
         </a>
       </p>
-      <p align="center">Comprehensive Data Structures & Algorithms implementations in C++. Arrays, Trees, Graphs, DP and more.</p>
+      <p align="center">Comprehensive DSA implementations in C++. Arrays, Trees, Graphs, DP and more.</p>
     </td>
     <td width="50%">
       <h3 align="center">📅 Calendar Manager Pro</h3>
       <p align="center">
         <a href="https://github.com/Harshvardhan770/Calendar-Manager-Pro">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Harshvardhan770&repo=Calendar-Manager-Pro&theme=tokyonight&hide_border=true" />
+          <img src="https://raw.githubusercontent.com/Harshvardhan770/Calendar-Manager-Pro/main/assets/calendar-banner.svg" width="100%"/>
         </a>
       </p>
       <p align="center">A C-based calendar management system for scheduling and event tracking.</p>
@@ -116,7 +116,7 @@ public:
       <h3 align="center">🧾 Invoice Manager PHP</h3>
       <p align="center">
         <a href="https://github.com/Harshvardhan770/InvoiceMg-PHP">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Harshvardhan770&repo=InvoiceMg-PHP&theme=tokyonight&hide_border=true" />
+          <img src="https://raw.githubusercontent.com/Harshvardhan770/InvoiceMg-PHP/main/assets/invoice-banner.svg" width="100%"/>
         </a>
       </p>
       <p align="center">Full-featured invoice management system built with PHP and MySQL.</p>
@@ -125,7 +125,7 @@ public:
       <h3 align="center">📊 Data Science</h3>
       <p align="center">
         <a href="https://github.com/Harshvardhan770/Data-Science">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Harshvardhan770&repo=Data-Science&theme=tokyonight&hide_border=true" />
+          <img src="https://raw.githubusercontent.com/Harshvardhan770/Data-Science/main/assets/datascience-banner.svg" width="100%"/>
         </a>
       </p>
       <p align="center">Collection of Data Science notebooks covering EDA, visualization, and ML models.</p>
