@@ -14,11 +14,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Harshvardhan770&label=Profile+Views&color=6E40C9&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/Harshvardhan770?label=Followers&style=flat&color=6E40C9" />
-</p>
-
 ---
 
 ## 🙋‍♂️ About Me
