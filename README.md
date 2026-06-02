@@ -143,29 +143,6 @@ public:
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Harshvardhan770&theme=tokyonight&no-frame=true&column=6&margin-w=10" />
-</p>
-
----
-
-## 💡 DSA Progress Tracker
-
-| Topic | Status |
-|-------|--------|
-| Arrays & Strings | ✅ Done |
-| Linked Lists | ✅ Done |
-| Stacks & Queues | ✅ Done |
-| Trees & BST | 🔄 In Progress |
-| Graphs (BFS/DFS) | 🔄 In Progress |
-| Dynamic Programming | 📌 Up Next |
-| Greedy Algorithms | 📌 Up Next |
-| Segment Trees | 📌 Up Next |
-
----
-
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
