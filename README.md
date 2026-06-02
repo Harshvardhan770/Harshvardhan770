@@ -43,7 +43,7 @@ public:
 - 🔭 Currently working on **DSA problem solving in C++** and **Data Science projects**
 - 🌱 Learning **Machine Learning**, **System Design**, and **Advanced Algorithms**
 - 💬 Ask me about **C++**, **Data Structures**, **PHP**, or **Python**
-- 📫 Reach me at: **your.email@gmail.com** *(update this)*
+- 📫 Reach me at: **harshvardhandhere19@gmail.com**
 - ⚡ Fun fact: I built a full Invoice Management System in PHP from scratch!
 
 ---
