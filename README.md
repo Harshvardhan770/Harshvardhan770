@@ -69,14 +69,6 @@ public:
 
 ---
 
-## 📊 GitHub Stats
-
- <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harshvardhan770&theme=tokyonight&hide_border=true" width="48%" />
- </p>
-
----
-
 ## 🚀 Featured Projects
 
 <table>
@@ -121,14 +113,6 @@ public:
     </td>
   </tr>
 </table>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshvardhan770&theme=tokyo-night&hide_border=true&area=true" />
-</p>
 
 ---
 
